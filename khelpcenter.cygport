@@ -1,0 +1,9 @@
+inherit kf5
+
+NAME="khelpcenter"
+VERSION=16.08.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE documentation viewer"
+DESCRIPTION="Shows documentation from various sources (applications from KDE
+community, man pages, etc.)"
