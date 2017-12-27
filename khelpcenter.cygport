@@ -2,8 +2,10 @@ inherit kf5
 
 NAME="khelpcenter"
 VERSION=17.08.3
-RELEASE=2
+RELEASE=3
 CATEGORY="KDE"
 SUMMARY="KDE documentation viewer"
 DESCRIPTION="Shows documentation from various sources (applications from KDE
 community, man pages, etc.)"
+
+PATCH_URI="17.08-kde3-services.patch"
