@@ -1,8 +1,8 @@
 inherit kf5
 
 NAME="khelpcenter"
-VERSION=17.08.3
-RELEASE=3
+VERSION=17.12.3
+RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE documentation viewer"
 DESCRIPTION="Shows documentation from various sources (applications from KDE
